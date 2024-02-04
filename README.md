@@ -16,7 +16,7 @@ Energetic and proficient Full Stack Web Developer with expertise in Node.js. Dem
 <br/>
 
 * 🌍  I hail from Mumbai, Maharashtra.
-* 🔥  Visit my [Portfolio](http://127.0.0.1:5500/VikasYadavPortfolio/index.html) for more details.
+* 🔥  Visit my [Portfolio](https://vikas3126.github.io/) for more details.
 * ✉️  You can contact me at [yadavvikas6865@gmail.com](mailto:yadavvikas6865@gmail.com)
 * ⭐ My latest project [Tracker Jet App](https://tracker-jet-app.vercel.app/) selected in Top      Project in Masai School
 <br />
